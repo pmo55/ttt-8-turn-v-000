@@ -35,3 +35,4 @@ index=input_to_index(index)
    move(board, index, token)
  else turn(board)
 end
+end
